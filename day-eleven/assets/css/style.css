@@ -1,0 +1,53 @@
+.container{
+    width: 900px;
+    height: 900vh;
+    background-color: #dcdcdc;
+   margin-top: 10px;
+  margin-left: 100px;
+    
+}
+    
+
+        
+
+.box{
+    width: 500px;
+     height: 100px;
+    background-color: black;
+    border-radius: 20px;
+    padding: 0 30px;
+    /* top-bottom left-right */
+
+}
+     
+     
+     .four{
+        margin: 50px 10px 0 50px;
+        color: white;
+        padding-right: 30px;
+        /* top right bottom left */
+        box-sizing: border-box;
+    }
+        .three{
+            margin: 50px 0 50px ;
+            /* top left-right bottom */ 
+            padding: 20px 30px ;           
+        }
+        .two{
+            margin: 50px 5opx;
+            /* top-bottom left-right */
+        }
+        .one{
+            margin: 50px;
+            /* t0p-bottom-left-right */
+        }
+        .inline-demo{
+            /* display;block */
+            margin:- 50px;
+            
+        }
+
+    
+        
+    
+                

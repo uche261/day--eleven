@@ -1,0 +1,42 @@
+.os{
+    background-color: black;
+    color: white;
+    margin: auto;
+}
+.logo{
+    margin-left: 400px;
+    background-color: aqua;
+    color: black;
+    width: 400px;
+    height: 60px;
+    padding-left: 80px;
+    padding-top: 12px;
+    font-size: x-large;
+    font-weight: 700;
+    
+}
+.welcome{
+    margin-left: 400px;
+    background-color: blueviolet;
+    color: white;
+    padding-left: 80px;
+    padding-top: 12px;
+    font-size: xx-large;
+    font-weight: 900;
+    margin-right: 300px;
+}
+.image{
+    margin-left: 300px;
+    background-color: darkgoldenrod;
+    margin-top: 20px;
+    width: 200px;
+    height: 150px;
+
+}
+.ABOUT{
+    margin-left: 150PX;
+    background-color: cadetblue;
+    color: black;
+    font-size: larger;
+    font-weight: 400;
+}
